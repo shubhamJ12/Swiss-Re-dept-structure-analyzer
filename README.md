@@ -1,4 +1,4 @@
-# Swiss-Re-dept-structure-analyzer .
+# Swiss-Re-dept-structure-analyzer
 
 A Java SE application to analyze a department’s reporting structure and salary compliance based on employee data from a CSV file.
 
