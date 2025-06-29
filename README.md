@@ -1,1 +1,1 @@
-# Swiss-Re-dept-structure-analyzer
+# Swiss-dept-structure-analyzer
