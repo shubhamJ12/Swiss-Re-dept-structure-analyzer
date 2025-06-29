@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="maven-favr-release" />
+      <option name="name" value="maven-favr-release" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-favr-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="roq-releases" />
+      <option name="name" value="RoQ Releases" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-hoolihan-roq-core-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-sts-release" />
+      <option name="name" value="ASR Releases" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-sts-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="asr-releases" />
+      <option name="name" value="ASR Releases" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-asr-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="miso-releases" />
+      <option name="name" value="miso-releases" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-miso-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/central-maven-remote" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="asr-snapshots" />
+      <option name="name" value="ASR Snapshots" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-asr-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bps-platform-release" />
+      <option name="name" value="maven-bps-platform-release" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-bps-platform-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jidoka-release-local" />
+      <option name="name" value="jidoka-release-local" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-jidoka-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-sls-release-local" />
+      <option name="name" value="maven-sls-release-local" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-sls-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-favr-snapshot" />
+      <option name="name" value="FAVR Snapshots" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-favr-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bps-uop-sdk-release" />
+      <option name="name" value="maven-bps-uop-sdk-release" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-bps-uop-sdk-release" />
+    </remote-repository>
+  </component>
+</project>
